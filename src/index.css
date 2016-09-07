@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color:#f3f3f3;
+}
+.margin-top_xs{margin-top:10px;}
+.repo-list-item{background-color:#fff;padding:1em;border-radius:5px;margin-top:10px;}
+.info{margin-left: 10px;}
+span{display: block;margin-bottom:1px;}
